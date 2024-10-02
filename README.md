@@ -1,0 +1,2 @@
+# Cluster Analysis
+ To perform our cluster analysis, we’ll use a comprehensive dataset from Kaggle, the "Credit Card Dataset for Clustering." This dataset contains various features related to credit card usage and customer behavior. Our task will be to apply clustering techniques to group customers into distinct segments based on their spending patterns, allowing us to identify different customer profiles and behaviors for targeted financial strategies.
